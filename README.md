@@ -14,7 +14,7 @@
 >>  Telegram    : @RihanAhmed404
 >> My Github   : Rihan444
 
-## >> Thanks For Using RIHAN CL2
+## >> Thanks For Using Pass_Make-R
 
 <!DOCTYPE html>
 <html>
