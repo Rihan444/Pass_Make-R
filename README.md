@@ -43,16 +43,19 @@ cd Pass_Make-R
 python passmaker.py
 
 ## View Password List
+_____________________
 
 ls
 
 nano passwords.txt
 
+______________________
 ## Remove txt File
 ### If you want to create a new password, remove the previous password file
+_____________________
 
-rm -rf passwords.txt
-
+rm -rf passwords.txt 
+______________________
 Done ✅😃 Thank you 💓
 
 <!DOCTYPE html>
